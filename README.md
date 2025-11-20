@@ -81,7 +81,7 @@ I'm always open to working on exciting projects in AI, ML, and Data Science. If 
 ## 📈 GitHub Stats
 
 [![Apurva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Apurvanaruka&show_icons=true&theme=dark)](https://github.com/Apurvanaruka)
-
+[![](https://visitcount.itsvg.in/api?id=apurvanaruka&label=Profile%20Views&color=4&icon=0&pretty=false)](https://visitcount.itsvg.in)
 ---
 
 Thanks for stopping by! Feel free to explore my repositories and let’s connect to build something amazing together 🚀
