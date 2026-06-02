@@ -21,9 +21,9 @@
 
 ```python
 class ApurvaSingh:
-    role        = "Full Stack Developer · AI/ML Engineer"
+    role        = "AI/ML Engineer"
     location    = "Mumbai, India 🇮🇳"
-    company     = "Unlock Technologies Pvt. Ltd."
+    company     = "PayPoint India Network Pvt. Ltd"
     education   = "B.Tech — AI & Data Science | CGPA: 8.6/10"
     
     focus = [
